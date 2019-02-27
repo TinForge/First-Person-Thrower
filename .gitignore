@@ -1,2 +1,6 @@
 *.cs.meta
 *.cs~
+*.prefab
+*.prefab.meta
+*.asset
+*.asset.meta
